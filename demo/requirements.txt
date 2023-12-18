@@ -1,0 +1,8 @@
+# API requirements
+
+langchain~=0.0.349
+pydantic==1.10.12
+pydantic_core==2.6.3
+langchain_core
+pgvector
+psycopg2-binary

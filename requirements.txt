@@ -1,0 +1,14 @@
+# API requirements
+
+torch
+pydantic==1.10.12
+pydantic_core==2.6.3
+modelscope
+transformers
+chardet
+tokenizers==0.14.0
+megatron_util
+psutil
+py_cpuinfo
+deepspeed
+apex
