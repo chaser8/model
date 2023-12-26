@@ -1,0 +1,9 @@
+# API requirements
+langchain
+modelscope
+transformers
+torch
+tiktoken
+transformers_stream_generator
+accelerate
+openai==0.28
